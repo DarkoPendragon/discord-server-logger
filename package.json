@@ -1,0 +1,29 @@
+{
+  "name": "discord-server-logger",
+  "version": "1.0.0",
+  "description": "A Discord.JS addon to log every message from a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkoPendragon/discord-server-logger.git"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.0"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "addon",
+    "logger"
+  ],
+  "author": "demisex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkoPendragon/discord-server-logger/issues"
+  },
+  "homepage": "https://github.com/DarkoPendragon/discord-server-logger#readme"
+}
