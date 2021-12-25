@@ -35,8 +35,8 @@ const client = new Discord.Client({ // these are the min required intents to run
 });
 
 const Logger = new DSL(client, { // the only required options
-    watchID: "SERVER TO WATCH ID (FROM STEP 2)"
-    loggingID: "LOGGING SERVER ID (FROM STEP 3)",
+    watchID: "SERVER TO WATCH ID (FROM STEP 2)",
+    loggingID: "LOGGING SERVER ID (FROM STEP 3)"
 });
 
 client.login('BOT TOKEN');
