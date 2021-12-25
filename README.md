@@ -57,6 +57,7 @@ Adding the `sendAsBot` option and including your ID in the array will then make 
 * The bot MUST be in the server you want to log.
 * The bot will NOT be able to log messages in channels it cannot see.
 * For easier setup in the logging server, give the bot the Administrator permission.
+* While this is updated for newer Discord.JS and Node.js versions, the code is still "sloppy."
 
 # Troubleshooting & Problems
 If you run into any issues, or just have any questions/suggestions, you can join my Discord server (https://discord.gg/5MQzK9DdpB) or add me on Discord, `Darko Pendragon#3219`.
