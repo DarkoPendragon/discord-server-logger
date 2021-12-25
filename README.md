@@ -51,7 +51,7 @@ const Logger = new DSL(client, {
     watchID: "SERVER TO WATCH ID"
 });
 ```
-Adding the `sendAsBot` option and including your ID in the array will then make your bot send messages you send in the logging server. For example, if you send "Error: no signs of intelligent life" in the logging server to the channel `#general`, your bot will then send the same message in the channel named `#general` within the server it's watching. So far, this is the only extra feature.
+Adding the `sendAsBot` option and including your ID in the array will then make your bot send messages you send in the logging server. For example, if you send "Error: no signs of intelligent life" in the logging server to the channel `#general`, your bot will then send the same message in the channel named `#general` within the server it's watching. Adding someone elses ID into the array will also allow them to do this. So far, this is the only extra feature.
 
 # Notes
 * The bot MUST be in the server you want to log.
