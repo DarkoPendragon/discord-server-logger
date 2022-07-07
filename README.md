@@ -1,5 +1,5 @@
 # Discord.JS Server Logger
-The `discord-server-logger` package is a small and simple addon to bots using Discord.JS, used to log any sent messages from a given server. This was originally made 3 or so years ago, and it's since been updated and changed from D.JS v11 to v13. If you need help or have questions, join my Discord server (https://discord.gg/5MQzK9DdpB).
+The `discord-server-logger` package is a small and simple addon to bots using Discord.JS, used to log any sent messages from a given server. This was originally made 3 or so years ago, and it's since been updated and changed from D.JS v11 to v13. If you need help or have questions, join my Discord server (https://discord.gg/4c8Rh7tWhv).
     
 # Explanation & Preview
 The addon will watch a given server for any messages sent and log them in the logging server, including any attachments sent. Using webhooks in the logging server messages will have the users tag (e.g, Darko Pendragon#3124) as their username and the users avatar. Right below is a screenshot of the channel #gta-chat in a GTA server:  
@@ -60,5 +60,5 @@ Adding the `sendAsBot` option and including your ID in the array will then make 
 * While this is updated for newer Discord.JS and Node.js versions, the code is still "sloppy."
 
 # Troubleshooting & Problems
-If you run into any issues, or just have any questions/suggestions, you can join my Discord server (https://discord.gg/5MQzK9DdpB) or add me on Discord, `Darko Pendragon#3219`.
+If you run into any issues, or just have any questions/suggestions, you can join my Discord server (https://discord.gg/4c8Rh7tWhv) or add me on Discord, `Darko Pendragon#3219`.
 
